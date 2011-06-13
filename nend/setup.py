@@ -15,10 +15,16 @@ setup(name='nend',
       url='http://threepress.org',
       license='BSD',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
+      package_data = { 'nend.externals': ['schemas/epub3/*.*',
+                                          'schemas/epub3/mod/*.*',
+                                          'xslt/*.*',
+                                         ],
+                     },
       include_package_data=True,
       zip_safe=False,
       install_requires=[
           # -*- Extra requirements: -*-
+          'lxml >= 2.2'
       ],
       entry_points="""
       # -*- Entry points: -*-
