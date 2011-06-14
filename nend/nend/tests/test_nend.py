@@ -7,6 +7,7 @@ Created by Keith Fahlgren on Mon Jun 13 16:12:29 PDT 2011
 Copyright (c) 2011 Threepress Consulting Inc. All rights reserved.
 """
 
+import glob
 import logging
 import os.path
 
@@ -43,4 +44,13 @@ class TestNend(object):
         not_valid = etree.parse(not_valid_end_fn)
         assert(not(nend.validate(not_valid)))
 
+
+    def test_xhtml_nend_output_valid_smoke(self):
+        """All NCX documents collected for smoketesting should be able to be transformed into a valid EPUB Navigation Document"""
+        smoketests_dir = os.path.join(self.testfiles_dir, 'smoketests')
+        for ncx_fn in glob.glob(smoketests_dir + '/*.ncx'):
+            log.debug('\nSmoke testing transformation and validation of %s' % ncx_fn)
+            ncx = etree.parse(ncx_fn)
+            end = nend.ncx.as_end(self.test_tml)
+            assert(nend.validate(end))
 

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+	<meta name="dtb:uid" content="nyt/nyt/nyt/20080927/sat_met/674989"/>
+	<meta name="dtb:depth" content="2"/>
+	<meta name="dtb:totalPageCount" content="0"/>
+	<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Los Angeles Times,Tue, Mar 23, 2010</text></docTitle>
+<docAuthor><text>Los Angeles Times</text></docAuthor>
+<navMap>
+	<navPoint class="introduction" id="Main_News.xml" playOrder="1">
+		<navLabel><text>Front Page</text></navLabel>
+		<content src="Main_News.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="Main_News.xml" playOrder="1">
+		<navLabel><text>Main News</text></navLabel>
+		<content src="Main_News.xml"/>
+	<navPoint class="introduction" id="Main_News.xml" playOrder="1">
+		<navLabel><text>Section front</text></navLabel>
+		<content src="Main_News.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="1_1.xml" playOrder="2">
+		<navLabel><text>Bill&#x2019;s passage is just the first battle in a long war </text></navLabel>
+		<content src="1_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="1_2.xml" playOrder="3">
+		<navLabel><text>Bill&#x2019;s passage is just the first battle in a long war </text></navLabel>
+		<content src="1_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="1_3.xml" playOrder="4">
+		<navLabel><text>Google pulls plug on China search engine </text></navLabel>
+		<content src="1_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="1_4.xml" playOrder="5">
+		<navLabel><text>Harlem&#x2019;s new political elite has ideas of its own </text></navLabel>
+		<content src="1_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="1_5.xml" playOrder="6">
+		<navLabel><text>Army&#x2019;s reputation is at risk in drug war </text></navLabel>
+		<content src="1_5.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="2_1.xml" playOrder="7">
+		<navLabel><text>Slipping into the dark </text></navLabel>
+		<content src="2_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="3_1.xml" playOrder="8">
+		<navLabel><text>Hillary Clinton stands firm on Israel </text></navLabel>
+		<content src="3_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="3_2.xml" playOrder="9">
+		<navLabel><text>Learning to hold back </text></navLabel>
+		<content src="3_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="3_3.xml" playOrder="10">
+		<navLabel><text>In Iran, a fight over slashing subsidies </text></navLabel>
+		<content src="3_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="4_1.xml" playOrder="11">
+		<navLabel><text>Pakistani wives left in lurch </text></navLabel>
+		<content src="4_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="6_1.xml" playOrder="12">
+		<navLabel><text>FDA warns against vaccine use </text></navLabel>
+		<content src="6_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="6_2.xml" playOrder="13">
+		<navLabel><text>These caterpillars can spend several weeks underwater </text></navLabel>
+		<content src="6_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="6_3.xml" playOrder="14">
+		<navLabel><text>Alarm over textbooks from Texas </text></navLabel>
+		<content src="6_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="7_1.xml" playOrder="15">
+		<navLabel><text>Activist group ACORN disbands after its funding dries up </text></navLabel>
+		<content src="7_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="8_1.xml" playOrder="16">
+		<navLabel><text>The riskiest yes vote on the floor? </text></navLabel>
+		<content src="8_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="9_1.xml" playOrder="17">
+		<navLabel><text>Bill&#x2019;s victory could bolster Pelosi </text></navLabel>
+		<content src="9_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="10_1.xml" playOrder="18">
+		<navLabel><text>Pinning down the benefits </text></navLabel>
+		<content src="10_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="10_2.xml" playOrder="19">
+		<navLabel><text>Apology for heated outburst </text></navLabel>
+		<content src="10_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="11_1.xml" playOrder="20">
+		<navLabel><text>Healthcare vote perks up investors </text></navLabel>
+		<content src="11_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="14_1.xml" playOrder="21">
+		<navLabel><text>Frankly, Clinton&#x2019;s right </text></navLabel>
+		<content src="14_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="14_2.xml" playOrder="22">
+		<navLabel><text>Message for Myanmar </text></navLabel>
+		<content src="14_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="14_3.xml" playOrder="23">
+		<navLabel><text>Whose board is it? </text></navLabel>
+		<content src="14_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="15_1.xml" playOrder="24">
+		<navLabel><text>Healthy skepticism </text></navLabel>
+		<content src="15_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="15_2.xml" playOrder="25">
+		<navLabel><text>Healthy skepticism </text></navLabel>
+		<content src="15_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="15_3.xml" playOrder="26">
+		<navLabel><text>America&#x0027;s fickle welcome mat </text></navLabel>
+		<content src="15_3.xml"/>
+	</navPoint>
+	</navPoint>
+	<navPoint class="introduction" id="LATExtra.xml" playOrder="2">
+		<navLabel><text>LATExtra</text></navLabel>
+		<content src="LATExtra.xml"/>
+	<navPoint class="introduction" id="LATExtra.xml" playOrder="2">
+		<navLabel><text>Section front</text></navLabel>
+		<content src="LATExtra.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="17_1.xml" playOrder="3">
+		<navLabel><text>Instructor at Pasadena art college is mourned </text></navLabel>
+		<content src="17_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="17_2.xml" playOrder="4">
+		<navLabel><text>A PORTRAIT OF EATING HABITS </text></navLabel>
+		<content src="17_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="17_3.xml" playOrder="5">
+		<navLabel><text>BANKING REFORMS MOVE AHEAD </text></navLabel>
+		<content src="17_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="17_4.xml" playOrder="6">
+		<navLabel><text>New home buyers may get tax help </text></navLabel>
+		<content src="17_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="17_5.xml" playOrder="7">
+		<navLabel><text>STATE MAY BAN SMOKING IN PARKS </text></navLabel>
+		<content src="17_5.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="18_1.xml" playOrder="8">
+		<navLabel><text>Drinking-water rules to tighten </text></navLabel>
+		<content src="18_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="18_2.xml" playOrder="9">
+		<navLabel><text>ON THE MENU: FOOD VALUES </text></navLabel>
+		<content src="18_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="18_3.xml" playOrder="10">
+		<navLabel><text>Man kills 8 children in China rampage </text></navLabel>
+		<content src="18_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="18_4.xml" playOrder="11">
+		<navLabel><text>On-duty trooper is arrested on suspicion of driving drunk </text></navLabel>
+		<content src="18_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="19_1.xml" playOrder="12">
+		<navLabel><text>Whitman sets record spending pace </text></navLabel>
+		<content src="19_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="19_2.xml" playOrder="13">
+		<navLabel><text>In-fighting over Black April </text></navLabel>
+		<content src="19_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="19_3.xml" playOrder="14">
+		<navLabel><text>Jackson doctor collected drug vials, a guard says </text></navLabel>
+		<content src="19_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="20_1.xml" playOrder="15">
+		<navLabel><text>A first for some, a trial for all </text></navLabel>
+		<content src="20_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="20_2.xml" playOrder="16">
+		<navLabel><text>Ex-police chief is charged with DUI </text></navLabel>
+		<content src="20_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="20_3.xml" playOrder="17">
+		<navLabel><text>L.A. ordinance cuts taxes for Internet-based companies </text></navLabel>
+		<content src="20_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="22_1.xml" playOrder="18">
+		<navLabel><text>A Green Dot charter school to close </text></navLabel>
+		<content src="22_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="22_3.xml" playOrder="19">
+		<navLabel><text>Part of singing trio DeCastro Sisters </text></navLabel>
+		<content src="22_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="22_4.xml" playOrder="20">
+		<navLabel><text>He led German opera event </text></navLabel>
+		<content src="22_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="23_1.xml" playOrder="21">
+		<navLabel><text>Inventor of cattle-disease cure </text></navLabel>
+		<content src="23_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="23_2.xml" playOrder="22">
+		<navLabel><text>Preakness executive </text></navLabel>
+		<content src="23_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="23_3.xml" playOrder="23">
+		<navLabel><text>Country music promoter </text></navLabel>
+		<content src="23_3.xml"/>
+	</navPoint>
+	</navPoint>
+	<navPoint class="introduction" id="Business.xml" playOrder="3">
+		<navLabel><text>Business</text></navLabel>
+		<content src="Business.xml"/>
+	<navPoint class="introduction" id="Business.xml" playOrder="3">
+		<navLabel><text>Section front</text></navLabel>
+		<content src="Business.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="25_1.xml" playOrder="4">
+		<navLabel><text>Spicy &#x2018;Spartacus&#x2019; slays &#x2019;em for Starz </text></navLabel>
+		<content src="25_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="25_2.xml" playOrder="5">
+		<navLabel><text>House OKs student aid overhaul </text></navLabel>
+		<content src="25_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="25_3.xml" playOrder="6">
+		<navLabel><text>FOCUS IS ON FANNIE, FREDDIE </text></navLabel>
+		<content src="25_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="25_4.xml" playOrder="7">
+		<navLabel><text>A rough ride on public transit </text></navLabel>
+		<content src="25_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="25_5.xml" playOrder="8">
+		<navLabel><text>Toyota worker conformity under fire amid firm&#x2019;s woes </text></navLabel>
+		<content src="25_5.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="26_1.xml" playOrder="9">
+		<navLabel><text>Rio Tinto case stirs China business fears </text></navLabel>
+		<content src="26_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="26_2.xml" playOrder="10">
+		<navLabel><text>Gas prices should be near peak, analysts say </text></navLabel>
+		<content src="26_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="27_2.xml" playOrder="11">
+		<navLabel><text>PepsiCo pushing &#x2018;good-for-you&#x2019; </text></navLabel>
+		<content src="27_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="27_3.xml" playOrder="12">
+		<navLabel><text>Maguire pads cash reserves, reduces debt </text></navLabel>
+		<content src="27_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="28_1.xml" playOrder="13">
+		<navLabel><text>Stocks get a boost from healthcare reform vote </text></navLabel>
+		<content src="28_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="30_2.xml" playOrder="14">
+		<navLabel><text>N.Y. Prius driver did not brake, police say </text></navLabel>
+		<content src="30_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="30_3.xml" playOrder="15">
+		<navLabel><text>Holiday sales put glitter in Tiffany earnings </text></navLabel>
+		<content src="30_3.xml"/>
+	</navPoint>
+	</navPoint>
+	<navPoint class="introduction" id="Sports.xml" playOrder="4">
+		<navLabel><text>Sports</text></navLabel>
+		<content src="Sports.xml"/>
+	<navPoint class="introduction" id="Sports.xml" playOrder="4">
+		<navLabel><text>Section front</text></navLabel>
+		<content src="Sports.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="33_1.xml" playOrder="5">
+		<navLabel><text>Repetitive stress points </text></navLabel>
+		<content src="33_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="33_2.xml" playOrder="6">
+		<navLabel><text>DOUGHTY KEEPS KINGS COOL </text></navLabel>
+		<content src="33_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="33_3.xml" playOrder="7">
+		<navLabel><text>Cowboys eyeing Oxnard </text></navLabel>
+		<content src="33_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="33_4.xml" playOrder="8">
+		<navLabel><text>Marathoners pass stress test </text></navLabel>
+		<content src="33_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="33_5.xml" playOrder="9">
+		<navLabel><text>Spring will bring steady diet of boxing </text></navLabel>
+		<content src="33_5.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="34_2.xml" playOrder="10">
+		<navLabel><text>He will follow up on Lakers and Jackson </text></navLabel>
+		<content src="34_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="35_1.xml" playOrder="11">
+		<navLabel><text>UCLA women aim for elite step </text></navLabel>
+		<content src="35_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="35_2.xml" playOrder="12">
+		<navLabel><text>Kershaw overcomes a shaky first inning </text></navLabel>
+		<content src="35_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="35_3.xml" playOrder="13">
+		<navLabel><text>Matsui gives left field a try but doesn&#x2019;t get any action </text></navLabel>
+		<content src="35_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="35_4.xml" playOrder="14">
+		<navLabel><text>Gonzaga stuns Texas A&#x0026;M </text></navLabel>
+		<content src="35_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="35_5.xml" playOrder="15">
+		<navLabel><text>Lucas has torn Achilles&#x2019; tendon </text></navLabel>
+		<content src="35_5.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="36_1.xml" playOrder="16">
+		<navLabel><text>Jordan&#x2019;s playing time debated </text></navLabel>
+		<content src="36_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="37_1.xml" playOrder="17">
+		<navLabel><text>There&#x2019;s no rest in West, again </text></navLabel>
+		<content src="37_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="37_3.xml" playOrder="18">
+		<navLabel><text>Need for skull sessions is urgent </text></navLabel>
+		<content src="37_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="38_3.xml" playOrder="19">
+		<navLabel><text>She did better than those who actually ran the race </text></navLabel>
+		<content src="38_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="38_4.xml" playOrder="20">
+		<navLabel><text>Affairs are alleged in McCourts&#x2019; court case </text></navLabel>
+		<content src="38_4.xml"/>
+	</navPoint>
+	</navPoint>
+	<navPoint class="introduction" id="Calendar.xml" playOrder="5">
+		<navLabel><text>Calendar</text></navLabel>
+		<content src="Calendar.xml"/>
+	<navPoint class="introduction" id="Calendar.xml" playOrder="5">
+		<navLabel><text>Section front</text></navLabel>
+		<content src="Calendar.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="41_1.xml" playOrder="6">
+		<navLabel><text>Askew view </text></navLabel>
+		<content src="41_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="41_2.xml" playOrder="7">
+		<navLabel><text>&#x2018;Alice&#x2019; closes DVD window </text></navLabel>
+		<content src="41_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="41_3.xml" playOrder="8">
+		<navLabel><text>&#x2018;A poet of the piano&#x2019; clocks in </text></navLabel>
+		<content src="41_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="41_4.xml" playOrder="9">
+		<navLabel><text>Top of the pops, 1964 </text></navLabel>
+		<content src="41_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="42_1.xml" playOrder="10">
+		<navLabel><text>Career in music is no act </text></navLabel>
+		<content src="42_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="42_2.xml" playOrder="11">
+		<navLabel><text>They can go for that just fine </text></navLabel>
+		<content src="42_2.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="42_3.xml" playOrder="12">
+		<navLabel><text>The rich play punk vixen </text></navLabel>
+		<content src="42_3.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="42_4.xml" playOrder="13">
+		<navLabel><text>A surprising jazz collaboration </text></navLabel>
+		<content src="42_4.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="43_1.xml" playOrder="14">
+		<navLabel><text>Lesson learned </text></navLabel>
+		<content src="43_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="45_1.xml" playOrder="15">
+		<navLabel><text>Quickened to a gallop </text></navLabel>
+		<content src="45_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="49_1.xml" playOrder="16">
+		<navLabel><text>Exploring the real life of &#x2018;Psycho&#x2019; body double </text></navLabel>
+		<content src="49_1.xml"/>
+	</navPoint>
+	<navPoint class="introduction" id="49_3.xml" playOrder="17">
+		<navLabel><text>Justifiably saved </text></navLabel>
+		<content src="49_3.xml"/>
+	</navPoint>
+	</navPoint>
+</navMap>
+</ncx>
