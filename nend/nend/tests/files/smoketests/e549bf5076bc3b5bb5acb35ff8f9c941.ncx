@@ -12,7 +12,7 @@
       <text>The New Yorker - 100329</text>
    </docTitle>
   <navMap>
-      <navPoint id="100329co_cover" playOrder="1">
+      <navPoint id="a100329co_cover" playOrder="1">
          <navLabel>
             <text>COVER | “Homage”</text>
          </navLabel>

@@ -6448,19 +6448,19 @@
   <pageList>
     <pageTarget playOrder="1" value="0" type="normal">
       <navLabel>
-        <text/>
+        <text>titlepage</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000001.html#pagem"/>
     </pageTarget>
     <pageTarget playOrder="3" value="1" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000002.html#pages"/>
     </pageTarget>
     <pageTarget playOrder="4" value="2" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000003.html#pagea"/>
     </pageTarget>
@@ -6658,13 +6658,13 @@
     </pageTarget>
     <pageTarget playOrder="78" value="35" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000036.html#pagec"/>
     </pageTarget>
     <pageTarget playOrder="80" value="36" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000037.html#paged"/>
     </pageTarget>
@@ -7822,13 +7822,13 @@
     </pageTarget>
     <pageTarget playOrder="612" value="229" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000230.html#slidngas"/>
     </pageTarget>
     <pageTarget playOrder="614" value="230" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000231.html#pager"/>
     </pageTarget>
@@ -8698,13 +8698,13 @@
     </pageTarget>
     <pageTarget playOrder="984" value="375" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000376.html#pagee"/>
     </pageTarget>
     <pageTarget playOrder="986" value="376" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000377.html#pagef"/>
     </pageTarget>
@@ -9718,13 +9718,13 @@
     </pageTarget>
     <pageTarget playOrder="1398" value="545" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000546.html#pagew"/>
     </pageTarget>
     <pageTarget playOrder="1400" value="546" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000547.html#pageq"/>
     </pageTarget>
@@ -10546,7 +10546,7 @@
     </pageTarget>
     <pageTarget playOrder="1749" value="683" type="normal">
       <navLabel>
-        <text/>
+        <text>(blank)</text>
       </navLabel>
       <content src="content/Scott_Foresman_Science__Grade_5__00000684.html#pagelast"/>
     </pageTarget>
