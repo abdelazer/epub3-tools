@@ -70,15 +70,22 @@ class TestNend(object):
             expected_end = etree.parse(expected_end_fn)
 
             ncx = etree.parse(ncx_fn)
-            end = ickmull.ncx.as_end(ncx)
+            end = nend.ncx.as_end(ncx)
+            # Ensure the output is valid before testing the exact representation
+            assert(nend.validate(end))
             try:
                 assert_equal(etree.tostring(expected_end), etree.tostring(end))
             except AssertionError:
-                # This is an absurd oneliner to keep the nose detailed-errors
-                # output small
-                diff = '\n'.join(list(difflib.unified_diff(etree.tostring(expected_end, pretty_print=True).splitlines(),
-                                                           etree.tostring(end, pretty_print=True).splitlines())))
-                raise AssertionError('XML documents for %s did not match. Diff:\n%s' % (ncx_docname, diff))
+                try:
+                    pretty_expected_end = etree.tostring(expected_end, pretty_print=True)
+                    pretty_end = etree.tostring(end, pretty_print=True)
+                    assert_equal(pretty_expected_end, pretty_end)
+                except AssertionError:
+                    # This is an absurd oneliner to keep the nose detailed-errors
+                    # output small
+                    diff = '\n'.join(list(difflib.unified_diff(pretty_expected_end.splitlines(),
+                                                               pretty_end.splitlines())))
+                    raise AssertionError('XML documents for %s did not match. Diff:\n%s' % (ncx_docname, diff))
 
     def test_xhtml_nend_output_valid_smoke(self):
         '''All NCX documents collected for smoketesting should be able to be transformed into a valid EPUB Navigation Document'''

@@ -1,158 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
-<head>
-<meta name="dtb:uid" content="p9780316000000"/>
-<meta name="dtb:depth" content="1"/>
-<meta name="dtb:totalPageCount" content="0"/>
-<meta name="dtb:maxPageNumber" content="0"/>
-</head>
-<docTitle><text>Moby-Dick</text></docTitle>
-<docAuthor><text>Herman Melville</text></docAuthor>
-<navMap>
-<navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xml"/></navPoint>
-<navPoint id="titlepage" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="titlepage.html"/></navPoint>
-
-
-<navPoint playOrder="3" id="preface_001"><navLabel><text>Original Transcriber’s Notes:</text></navLabel><content src="preface_001.html"/></navPoint>
-<navPoint playOrder="4" id="Introduction-rw5"><navLabel><text>ETYMOLOGY.</text></navLabel><content src="Introduction-rw5.html"/></navPoint>
-<navPoint playOrder="5" id="epigraph_001"><navLabel><text>EXTRACTS (Supplied by a Sub-Sub-Librarian).</text></navLabel><content src="epigraph_001.html"/></navPoint>
-<navPoint playOrder="6" id="chapter_001"><navLabel><text>Chapter 1. Loomings.</text></navLabel><content src="chapter_001.html"/></navPoint>
-<navPoint playOrder="7" id="chapter_002"><navLabel><text>Chapter 2. The Carpet-Bag.</text></navLabel><content src="chapter_002.html"/></navPoint>
-<navPoint playOrder="8" id="chapter_003"><navLabel><text>Chapter 3. The Spouter-Inn.</text></navLabel><content src="chapter_003.html"/></navPoint>
-<navPoint playOrder="9" id="chapter_004"><navLabel><text>Chapter 4. The Counterpane.</text></navLabel><content src="chapter_004.html"/></navPoint>
-<navPoint playOrder="10" id="chapter_005"><navLabel><text>Chapter 5. Breakfast.</text></navLabel><content src="chapter_005.html"/></navPoint>
-<navPoint playOrder="11" id="chapter_006"><navLabel><text>Chapter 6. The Street.</text></navLabel><content src="chapter_006.html"/></navPoint>
-<navPoint playOrder="12" id="chapter_007"><navLabel><text>Chapter 7. The Chapel.</text></navLabel><content src="chapter_007.html"/></navPoint>
-<navPoint playOrder="13" id="chapter_008"><navLabel><text>Chapter 8. The Pulpit.</text></navLabel><content src="chapter_008.html"/></navPoint>
-<navPoint playOrder="14" id="chapter_009"><navLabel><text>Chapter 9. The Sermon.</text></navLabel><content src="chapter_009.html"/></navPoint>
-<navPoint playOrder="15" id="chapter_010"><navLabel><text>Chapter 10. A Bosom Friend.</text></navLabel><content src="chapter_010.html"/></navPoint>
-<navPoint playOrder="16" id="chapter_011"><navLabel><text>Chapter 11. Nightgown.</text></navLabel><content src="chapter_011.html"/></navPoint>
-<navPoint playOrder="17" id="chapter_012"><navLabel><text>Chapter 12. Biographical.</text></navLabel><content src="chapter_012.html"/></navPoint>
-<navPoint playOrder="18" id="chapter_013"><navLabel><text>Chapter 13. Wheelbarrow.</text></navLabel><content src="chapter_013.html"/></navPoint>
-<navPoint playOrder="19" id="chapter_014"><navLabel><text>Chapter 14. Nantucket.</text></navLabel><content src="chapter_014.html"/></navPoint>
-<navPoint playOrder="20" id="chapter_015"><navLabel><text>Chapter 15. Chowder.</text></navLabel><content src="chapter_015.html"/></navPoint>
-<navPoint playOrder="21" id="chapter_016"><navLabel><text>Chapter 16. The Ship.</text></navLabel><content src="chapter_016.html"/></navPoint>
-<navPoint playOrder="22" id="chapter_017"><navLabel><text>Chapter 17. The Ramadan.</text></navLabel><content src="chapter_017.html"/></navPoint>
-<navPoint playOrder="23" id="chapter_018"><navLabel><text>Chapter 18. His Mark.</text></navLabel><content src="chapter_018.html"/></navPoint>
-<navPoint playOrder="24" id="chapter_019"><navLabel><text>Chapter 19. The Prophet.</text></navLabel><content src="chapter_019.html"/></navPoint>
-<navPoint playOrder="25" id="chapter_020"><navLabel><text>Chapter 20. All Astir.</text></navLabel><content src="chapter_020.html"/></navPoint>
-<navPoint playOrder="26" id="chapter_021"><navLabel><text>Chapter 21. Going Aboard.</text></navLabel><content src="chapter_021.html"/></navPoint>
-<navPoint playOrder="27" id="chapter_022"><navLabel><text>Chapter 22. Merry Christmas.</text></navLabel><content src="chapter_022.html"/></navPoint>
-<navPoint playOrder="28" id="chapter_023"><navLabel><text>Chapter 23. The Lee Shore.</text></navLabel><content src="chapter_023.html"/></navPoint>
-<navPoint playOrder="29" id="chapter_024"><navLabel><text>Chapter 24. The Advocate.</text></navLabel><content src="chapter_024.html"/></navPoint>
-<navPoint playOrder="30" id="chapter_025"><navLabel><text>Chapter 25. Postscript.</text></navLabel><content src="chapter_025.html"/></navPoint>
-<navPoint playOrder="31" id="chapter_026"><navLabel><text>Chapter 26. Knights and Squires.</text></navLabel><content src="chapter_026.html"/></navPoint>
-<navPoint playOrder="32" id="chapter_027"><navLabel><text>Chapter 27. Knights and Squires.</text></navLabel><content src="chapter_027.html"/></navPoint>
-<navPoint playOrder="33" id="chapter_028"><navLabel><text>Chapter 28. Ahab.</text></navLabel><content src="chapter_028.html"/></navPoint>
-<navPoint playOrder="34" id="chapter_029"><navLabel><text>Chapter 29. Enter Ahab; to Him, Stubb.</text></navLabel><content src="chapter_029.html"/></navPoint>
-<navPoint playOrder="35" id="chapter_030"><navLabel><text>Chapter 30. The Pipe.</text></navLabel><content src="chapter_030.html"/></navPoint>
-<navPoint playOrder="36" id="chapter_031"><navLabel><text>Chapter 31. Queen Mab.</text></navLabel><content src="chapter_031.html"/></navPoint>
-<navPoint playOrder="37" id="chapter_032"><navLabel><text>Chapter 32. Cetology.</text></navLabel><content src="chapter_032.html"/></navPoint>
-<navPoint playOrder="38" id="chapter_033"><navLabel><text>Chapter 33. The Specksnyder.</text></navLabel><content src="chapter_033.html"/></navPoint>
-<navPoint playOrder="39" id="chapter_034"><navLabel><text>Chapter 34. The Cabin-Table.</text></navLabel><content src="chapter_034.html"/></navPoint>
-<navPoint playOrder="40" id="chapter_035"><navLabel><text>Chapter 35. The Mast-Head.</text></navLabel><content src="chapter_035.html"/></navPoint>
-<navPoint playOrder="41" id="chapter_036"><navLabel><text>Chapter 36. The Quarter-Deck.</text></navLabel><content src="chapter_036.html"/></navPoint>
-<navPoint playOrder="42" id="chapter_037"><navLabel><text>Chapter 37. Sunset.</text></navLabel><content src="chapter_037.html"/></navPoint>
-<navPoint playOrder="43" id="chapter_038"><navLabel><text>Chapter 38. Dusk.</text></navLabel><content src="chapter_038.html"/></navPoint>
-<navPoint playOrder="44" id="chapter_039"><navLabel><text>Chapter 39. First Night Watch.</text></navLabel><content src="chapter_039.html"/></navPoint>
-<navPoint playOrder="45" id="chapter_040"><navLabel><text>Chapter 40. Midnight, Forecastle.</text></navLabel><content src="chapter_040.html"/></navPoint>
-<navPoint playOrder="46" id="chapter_041"><navLabel><text>Chapter 41. Moby Dick.</text></navLabel><content src="chapter_041.html"/></navPoint>
-<navPoint playOrder="47" id="chapter_042"><navLabel><text>Chapter 42. The Whiteness of The Whale.</text></navLabel><content src="chapter_042.html"/></navPoint>
-<navPoint playOrder="48" id="chapter_043"><navLabel><text>Chapter 43. Hark!</text></navLabel><content src="chapter_043.html"/></navPoint>
-<navPoint playOrder="49" id="chapter_044"><navLabel><text>Chapter 44. The Chart.</text></navLabel><content src="chapter_044.html"/></navPoint>
-<navPoint playOrder="50" id="chapter_045"><navLabel><text>Chapter 45. The Affidavit.</text></navLabel><content src="chapter_045.html"/></navPoint>
-<navPoint playOrder="51" id="chapter_046"><navLabel><text>Chapter 46. Surmises.</text></navLabel><content src="chapter_046.html"/></navPoint>
-<navPoint playOrder="52" id="chapter_047"><navLabel><text>Chapter 47. The Mat-Maker.</text></navLabel><content src="chapter_047.html"/></navPoint>
-<navPoint playOrder="53" id="chapter_048"><navLabel><text>Chapter 48. The First Lowering.</text></navLabel><content src="chapter_048.html"/></navPoint>
-<navPoint playOrder="54" id="chapter_049"><navLabel><text>Chapter 49. The Hyena.</text></navLabel><content src="chapter_049.html"/></navPoint>
-<navPoint playOrder="55" id="chapter_050"><navLabel><text>Chapter 50. Ahab’s Boat and Crew. Fedallah.</text></navLabel><content src="chapter_050.html"/></navPoint>
-<navPoint playOrder="56" id="chapter_051"><navLabel><text>Chapter 51. The Spirit-Spout.</text></navLabel><content src="chapter_051.html"/></navPoint>
-<navPoint playOrder="57" id="chapter_052"><navLabel><text>Chapter 52. The Albatross.</text></navLabel><content src="chapter_052.html"/></navPoint>
-<navPoint playOrder="58" id="chapter_053"><navLabel><text>Chapter 53. The Gam.</text></navLabel><content src="chapter_053.html"/></navPoint>
-<navPoint playOrder="59" id="chapter_054"><navLabel><text>Chapter 54. The Town-Ho’s Story.</text></navLabel><content src="chapter_054.html"/></navPoint>
-<navPoint playOrder="60" id="chapter_055"><navLabel><text>Chapter 55. Of the Monstrous Pictures of Whales.</text></navLabel><content src="chapter_055.html"/></navPoint>
-<navPoint playOrder="61" id="chapter_056"><navLabel><text>Chapter 56. Of the Less Erroneous Pictures of Whales, and the True</text></navLabel><content src="chapter_056.html"/></navPoint>
-<navPoint playOrder="62" id="chapter_057"><navLabel><text>Chapter 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in</text></navLabel><content src="chapter_057.html"/></navPoint>
-<navPoint playOrder="63" id="chapter_058"><navLabel><text>Chapter 58. Brit.</text></navLabel><content src="chapter_058.html"/></navPoint>
-<navPoint playOrder="64" id="chapter_059"><navLabel><text>Chapter 59. Squid.</text></navLabel><content src="chapter_059.html"/></navPoint>
-<navPoint playOrder="65" id="chapter_060"><navLabel><text>Chapter 60. The Line.</text></navLabel><content src="chapter_060.html"/></navPoint>
-<navPoint playOrder="66" id="chapter_061"><navLabel><text>Chapter 61. Stubb Kills a Whale.</text></navLabel><content src="chapter_061.html"/></navPoint>
-<navPoint playOrder="67" id="chapter_062"><navLabel><text>Chapter 62. The Dart.</text></navLabel><content src="chapter_062.html"/></navPoint>
-<navPoint playOrder="68" id="chapter_063"><navLabel><text>Chapter 63. The Crotch.</text></navLabel><content src="chapter_063.html"/></navPoint>
-<navPoint playOrder="69" id="chapter_064"><navLabel><text>Chapter 64. Stubb’s Supper.</text></navLabel><content src="chapter_064.html"/></navPoint>
-<navPoint playOrder="70" id="chapter_065"><navLabel><text>Chapter 65. The Whale as a Dish.</text></navLabel><content src="chapter_065.html"/></navPoint>
-<navPoint playOrder="71" id="chapter_066"><navLabel><text>Chapter 66. The Shark Massacre.</text></navLabel><content src="chapter_066.html"/></navPoint>
-<navPoint playOrder="72" id="chapter_067"><navLabel><text>Chapter 67. Cutting In.</text></navLabel><content src="chapter_067.html"/></navPoint>
-<navPoint playOrder="73" id="chapter_068"><navLabel><text>Chapter 68. The Blanket.</text></navLabel><content src="chapter_068.html"/></navPoint>
-<navPoint playOrder="74" id="chapter_069"><navLabel><text>Chapter 69. The Funeral.</text></navLabel><content src="chapter_069.html"/></navPoint>
-<navPoint playOrder="75" id="chapter_070"><navLabel><text>Chapter 70. The Sphynx.</text></navLabel><content src="chapter_070.html"/></navPoint>
-<navPoint playOrder="76" id="chapter_071"><navLabel><text>Chapter 71. The Jeroboam’s Story.</text></navLabel><content src="chapter_071.html"/></navPoint>
-<navPoint playOrder="77" id="chapter_072"><navLabel><text>Chapter 72. The Monkey-Rope.</text></navLabel><content src="chapter_072.html"/></navPoint>
-<navPoint playOrder="78" id="chapter_073"><navLabel><text>Chapter 73. Stubb and Flask Kill a Right Whale; and Then Have a Talk</text></navLabel><content src="chapter_073.html"/></navPoint>
-<navPoint playOrder="79" id="chapter_074"><navLabel><text>Chapter 74. The Sperm Whale’s Head—Contrasted View.</text></navLabel><content src="chapter_074.html"/></navPoint>
-<navPoint playOrder="80" id="chapter_075"><navLabel><text>Chapter 75. The Right Whale’s Head—Contrasted View.</text></navLabel><content src="chapter_075.html"/></navPoint>
-<navPoint playOrder="81" id="chapter_076"><navLabel><text>Chapter 76. The Battering-Ram.</text></navLabel><content src="chapter_076.html"/></navPoint>
-<navPoint playOrder="82" id="chapter_077"><navLabel><text>Chapter 77. The Great Heidelburgh Tun.</text></navLabel><content src="chapter_077.html"/></navPoint>
-<navPoint playOrder="83" id="chapter_078"><navLabel><text>Chapter 78. Cistern and Buckets.</text></navLabel><content src="chapter_078.html"/></navPoint>
-<navPoint playOrder="84" id="chapter_079"><navLabel><text>Chapter 79. The Prairie.</text></navLabel><content src="chapter_079.html"/></navPoint>
-<navPoint playOrder="85" id="chapter_080"><navLabel><text>Chapter 80. The Nut.</text></navLabel><content src="chapter_080.html"/></navPoint>
-<navPoint playOrder="86" id="chapter_081"><navLabel><text>Chapter 81. The Pequod Meets The Virgin.</text></navLabel><content src="chapter_081.html"/></navPoint>
-<navPoint playOrder="87" id="chapter_082"><navLabel><text>Chapter 82. The Honour and Glory of Whaling.</text></navLabel><content src="chapter_082.html"/></navPoint>
-<navPoint playOrder="88" id="chapter_083"><navLabel><text>Chapter 83. Jonah Historically Regarded.</text></navLabel><content src="chapter_083.html"/></navPoint>
-<navPoint playOrder="89" id="chapter_084"><navLabel><text>Chapter 84. Pitchpoling.</text></navLabel><content src="chapter_084.html"/></navPoint>
-<navPoint playOrder="90" id="chapter_085"><navLabel><text>Chapter 85. The Fountain.</text></navLabel><content src="chapter_085.html"/></navPoint>
-<navPoint playOrder="91" id="chapter_086"><navLabel><text>Chapter 86. The Tail.</text></navLabel><content src="chapter_086.html"/></navPoint>
-<navPoint playOrder="92" id="chapter_087"><navLabel><text>Chapter 87. The Grand Armada.</text></navLabel><content src="chapter_087.html"/></navPoint>
-<navPoint playOrder="93" id="chapter_088"><navLabel><text>Chapter 88. Schools and Schoolmasters.</text></navLabel><content src="chapter_088.html"/></navPoint>
-<navPoint playOrder="94" id="chapter_089"><navLabel><text>Chapter 89. Fast-Fish and Loose-Fish.</text></navLabel><content src="chapter_089.html"/></navPoint>
-<navPoint playOrder="95" id="chapter_090"><navLabel><text>Chapter 90. Heads or Tails.</text></navLabel><content src="chapter_090.html"/></navPoint>
-<navPoint playOrder="96" id="chapter_091"><navLabel><text>Chapter 91. The Pequod Meets The Rose-Bud.</text></navLabel><content src="chapter_091.html"/></navPoint>
-<navPoint playOrder="97" id="chapter_092"><navLabel><text>Chapter 92. Ambergris.</text></navLabel><content src="chapter_092.html"/></navPoint>
-<navPoint playOrder="98" id="chapter_093"><navLabel><text>Chapter 93. The Castaway.</text></navLabel><content src="chapter_093.html"/></navPoint>
-<navPoint playOrder="99" id="chapter_094"><navLabel><text>Chapter 94. A Squeeze of the Hand.</text></navLabel><content src="chapter_094.html"/></navPoint>
-<navPoint playOrder="100" id="chapter_095"><navLabel><text>Chapter 95. The Cassock.</text></navLabel><content src="chapter_095.html"/></navPoint>
-<navPoint playOrder="101" id="chapter_096"><navLabel><text>Chapter 96. The Try-Works.</text></navLabel><content src="chapter_096.html"/></navPoint>
-<navPoint playOrder="102" id="chapter_097"><navLabel><text>Chapter 97. The Lamp.</text></navLabel><content src="chapter_097.html"/></navPoint>
-<navPoint playOrder="103" id="chapter_098"><navLabel><text>Chapter 98. Stowing Down and Clearing Up.</text></navLabel><content src="chapter_098.html"/></navPoint>
-<navPoint playOrder="104" id="chapter_099"><navLabel><text>Chapter 99. The Doubloon.</text></navLabel><content src="chapter_099.html"/></navPoint>
-<navPoint playOrder="105" id="chapter_100"><navLabel><text>Chapter 100. Leg and Arm.</text></navLabel><content src="chapter_100.html"/></navPoint>
-<navPoint playOrder="106" id="chapter_101"><navLabel><text>Chapter 101. The Decanter.</text></navLabel><content src="chapter_101.html"/></navPoint>
-<navPoint playOrder="107" id="chapter_102"><navLabel><text>Chapter 102. A Bower in the Arsacides.</text></navLabel><content src="chapter_102.html"/></navPoint>
-<navPoint playOrder="108" id="chapter_103"><navLabel><text>Chapter 103. Measurement of The Whale’s Skeleton.</text></navLabel><content src="chapter_103.html"/></navPoint>
-<navPoint playOrder="109" id="chapter_104"><navLabel><text>Chapter 104. The Fossil Whale.</text></navLabel><content src="chapter_104.html"/></navPoint>
-<navPoint playOrder="110" id="chapter_105"><navLabel><text>Chapter 105. Does the Whale’s Magnitude Diminish?—Will He Perish?</text></navLabel><content src="chapter_105.html"/></navPoint>
-<navPoint playOrder="111" id="chapter_106"><navLabel><text>Chapter 106. Ahab’s Leg.</text></navLabel><content src="chapter_106.html"/></navPoint>
-<navPoint playOrder="112" id="chapter_107"><navLabel><text>Chapter 107. The Carpenter.</text></navLabel><content src="chapter_107.html"/></navPoint>
-<navPoint playOrder="113" id="chapter_108"><navLabel><text>Chapter 108. Ahab and the Carpenter.</text></navLabel><content src="chapter_108.html"/></navPoint>
-<navPoint playOrder="114" id="chapter_109"><navLabel><text>Chapter 109. Ahab and Starbuck in the Cabin.</text></navLabel><content src="chapter_109.html"/></navPoint>
-<navPoint playOrder="115" id="chapter_110"><navLabel><text>Chapter 110. Queequeg in His Coffin.</text></navLabel><content src="chapter_110.html"/></navPoint>
-<navPoint playOrder="116" id="chapter_111"><navLabel><text>Chapter 111. The Pacific.</text></navLabel><content src="chapter_111.html"/></navPoint>
-<navPoint playOrder="117" id="chapter_112"><navLabel><text>Chapter 112. The Blacksmith.</text></navLabel><content src="chapter_112.html"/></navPoint>
-<navPoint playOrder="118" id="chapter_113"><navLabel><text>Chapter 113. The Forge.</text></navLabel><content src="chapter_113.html"/></navPoint>
-<navPoint playOrder="119" id="chapter_114"><navLabel><text>Chapter 114. The Gilder.</text></navLabel><content src="chapter_114.html"/></navPoint>
-<navPoint playOrder="120" id="chapter_115"><navLabel><text>Chapter 115. The Pequod Meets The Bachelor.</text></navLabel><content src="chapter_115.html"/></navPoint>
-<navPoint playOrder="121" id="chapter_116"><navLabel><text>Chapter 116. The Dying Whale.</text></navLabel><content src="chapter_116.html"/></navPoint>
-<navPoint playOrder="122" id="chapter_117"><navLabel><text>Chapter 117. The Whale Watch.</text></navLabel><content src="chapter_117.html"/></navPoint>
-<navPoint playOrder="123" id="chapter_118"><navLabel><text>Chapter 118. The Quadrant.</text></navLabel><content src="chapter_118.html"/></navPoint>
-<navPoint playOrder="124" id="chapter_119"><navLabel><text>Chapter 119. The Candles.</text></navLabel><content src="chapter_119.html"/></navPoint>
-<navPoint playOrder="125" id="chapter_120"><navLabel><text>Chapter 120. The Deck Towards the End of the First Night Watch.</text></navLabel><content src="chapter_120.html"/></navPoint>
-<navPoint playOrder="126" id="chapter_121"><navLabel><text>Chapter 121. Midnight.—The Forecastle Bulwarks.</text></navLabel><content src="chapter_121.html"/></navPoint>
-<navPoint playOrder="127" id="chapter_122"><navLabel><text>Chapter 122. Midnight Aloft.—Thunder and Lightning.</text></navLabel><content src="chapter_122.html"/></navPoint>
-<navPoint playOrder="128" id="chapter_123"><navLabel><text>Chapter 123. The Musket.</text></navLabel><content src="chapter_123.html"/></navPoint>
-<navPoint playOrder="129" id="chapter_124"><navLabel><text>Chapter 124. The Needle.</text></navLabel><content src="chapter_124.html"/></navPoint>
-<navPoint playOrder="130" id="chapter_125"><navLabel><text>Chapter 125. The Log and Line.</text></navLabel><content src="chapter_125.html"/></navPoint>
-<navPoint playOrder="131" id="chapter_126"><navLabel><text>Chapter 126. The Life-Buoy.</text></navLabel><content src="chapter_126.html"/></navPoint>
-<navPoint playOrder="132" id="chapter_127"><navLabel><text>Chapter 127. The Deck.</text></navLabel><content src="chapter_127.html"/></navPoint>
-<navPoint playOrder="133" id="chapter_128"><navLabel><text>Chapter 128. The Pequod Meets The Rachel.</text></navLabel><content src="chapter_128.html"/></navPoint>
-<navPoint playOrder="134" id="chapter_129"><navLabel><text>Chapter 129. The Cabin.</text></navLabel><content src="chapter_129.html"/></navPoint>
-<navPoint playOrder="135" id="chapter_130"><navLabel><text>Chapter 130. The Hat.</text></navLabel><content src="chapter_130.html"/></navPoint>
-<navPoint playOrder="136" id="chapter_131"><navLabel><text>Chapter 131. The Pequod Meets The Delight.</text></navLabel><content src="chapter_131.html"/></navPoint>
-<navPoint playOrder="137" id="chapter_132"><navLabel><text>Chapter 132. The Symphony.</text></navLabel><content src="chapter_132.html"/></navPoint>
-<navPoint playOrder="138" id="chapter_133"><navLabel><text>Chapter 133. The Chase—First Day.</text></navLabel><content src="chapter_133.html"/></navPoint>
-<navPoint playOrder="139" id="chapter_134"><navLabel><text>Chapter 134. The Chase—Second Day.</text></navLabel><content src="chapter_134.html"/></navPoint>
-<navPoint playOrder="140" id="chapter_135"><navLabel><text>Chapter 135. The Chase.—Third Day.</text></navLabel><content src="chapter_135.html"/></navPoint>
-<navPoint playOrder="141" id="chapter_136"><navLabel><text>Epilogue</text></navLabel><content src="chapter_136.html"/></navPoint>
-<navPoint id="copyright" playOrder="142"><navLabel><text>Copyright Page</text></navLabel><content src="copyright.html"/></navPoint>
-
-</navMap>
+  <head>
+    <meta name="dtb:uid" content="p9780316000000"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Moby-Dick</text>
+  </docTitle>
+  <docAuthor>
+    <text>Herman Melville</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.html"/>
+    </navPoint>
+    <navPoint id="titlepage" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="titlepage.html"/>
+    </navPoint>
+    <navPoint playOrder="3" id="preface_001">
+      <navLabel>
+        <text>Original Transcriber’s Notes:</text>
+      </navLabel>
+      <content src="preface_001.html"/>
+    </navPoint>
+    <navPoint playOrder="4" id="introduction_001">
+      <navLabel>
+        <text>ETYMOLOGY.</text>
+      </navLabel>
+      <content src="introduction_001.html"/>
+    </navPoint>
+    <navPoint playOrder="5" id="epigraph_001">
+      <navLabel>
+        <text>EXTRACTS (Supplied by a Sub-Sub-Librarian).</text>
+      </navLabel>
+      <content src="epigraph_001.html"/>
+    </navPoint>
+    <navPoint playOrder="6" id="chapter_001">
+      <navLabel>
+        <text>Chapter 1. Loomings.</text>
+      </navLabel>
+      <content src="chapter_001.html"/>
+    </navPoint>
+    <navPoint playOrder="7" id="chapter_002">
+      <navLabel>
+        <text>Chapter 2. The Carpet-Bag.</text>
+      </navLabel>
+      <content src="chapter_002.html"/>
+    </navPoint>
+    <navPoint playOrder="8" id="chapter_003">
+      <navLabel>
+        <text>Chapter 3. The Spouter-Inn.</text>
+      </navLabel>
+      <content src="chapter_003.html"/>
+    </navPoint>
+    <navPoint playOrder="9" id="chapter_004">
+      <navLabel>
+        <text>Chapter 4. The Counterpane.</text>
+      </navLabel>
+      <content src="chapter_004.html"/>
+    </navPoint>
+    <navPoint playOrder="10" id="chapter_005">
+      <navLabel>
+        <text>Chapter 5. Breakfast.</text>
+      </navLabel>
+      <content src="chapter_005.html"/>
+    </navPoint>
+    <navPoint playOrder="11" id="chapter_006">
+      <navLabel>
+        <text>Chapter 6. The Street.</text>
+      </navLabel>
+      <content src="chapter_006.html"/>
+    </navPoint>
+    <navPoint playOrder="12" id="chapter_007">
+      <navLabel>
+        <text>Chapter 7. The Chapel.</text>
+      </navLabel>
+      <content src="chapter_007.html"/>
+    </navPoint>
+    <navPoint playOrder="13" id="chapter_008">
+      <navLabel>
+        <text>Chapter 8. The Pulpit.</text>
+      </navLabel>
+      <content src="chapter_008.html"/>
+    </navPoint>
+    <navPoint id="copyright" playOrder="14">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="copyright.html"/>
+    </navPoint>
+  </navMap>
 </ncx>
